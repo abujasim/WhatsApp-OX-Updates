@@ -1,6 +1,6 @@
 {
   "VERSION_NAME": "12.0",
-  "BASE_VERSION": "2.26.32.81",
+  "BASE_VERSION": "2.26.32.83",
   "UPDATE_DATE": "10 Sep 2026",
   "WEBSITE_URL": "https://t.me/apkxu/592",
   "CHANGELOG": "<div class='section'><div class='title green'>💬 Messages</div><p class='text'>Group message indicator<br>Enhanced message deletion info<br>Detailed last seen<br>Hide contact name & privacy<br>Fixed group deletion & edit history</p></div><div class='section'><div class='title blue'>🎥 Media</div><p class='text'>Video quality enhancement</p></div>"

@@ -1,7 +1,22 @@
-{
-  "VERSION_NAME": "13.0",
-  "BASE_VERSION": "2.26.32.83",
-  "UPDATE_DATE": "10 Sep 2026",
-  "WEBSITE_URL": "https://t.me/apkxu/592",
-  "CHANGELOG": "<div class='section'><div class='title green'>🔥 NEW UPDATE</div><div class='text'>👥 Group message indicator to identify group messages<br>🗑️ See who deleted a group message<br>🕒 Hide or show the message deletion date<br>👁️ Show detailed last seen with a new design<br>👤 Hide contact names with separate privacy settings<br>🛠️ Fixed admin issues when deleting members' messages<br>✏️ Fixed missing edit history for media captions<br>🎥 Added an option to improve video quality</div></div>"
+"CHANGELOG": {
+  "en": [
+    "Group message indicator to identify group messages",
+    "See who deleted a group message",
+    "Hide or show the message deletion date",
+    "Show detailed last seen with a new design",
+    "Hide contact names with separate privacy settings",
+    "Fixed admin issues when deleting members' messages",
+    "Fixed missing edit history for media captions",
+    "Added an option to improve video quality"
+  ],
+  "ar": [
+    "إضافة مؤشر للرسائل الجماعية لتمييزها",
+    "معرفة من قام بحذف رسالة في المجموعة",
+    "إخفاء أو إظهار تاريخ حذف الرسالة",
+    "إظهار آخر ظهور بشكل تفصيلي بتصميم جديد",
+    "إخفاء أسماء جهات الاتصال مع إعدادات خصوصية منفصلة",
+    "إصلاح مشاكل المشرف عند حذف رسائل الأعضاء",
+    "إصلاح عدم ظهور سجل تعديل كابشن الوسائط",
+    "إضافة خيار لتحسين جودة الفيديو"
+  ]
 }

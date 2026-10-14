@@ -1,7 +1,7 @@
-{
-  "VERSION_NAME": "13.0",
-  "BASE_VERSION": "2.26.39.74",
-  "UPDATE_DATE": "14 Oct 2026",
-  "WEBSITE_URL": "https://t.me/apkxu/597",
-  "CHANGELOG": "<div class='lang-en'><div class='section'><div class='title green'>🔥 NEW UPDATE</div><p class='text'>✅ Added Status confirmation<br>🎨 Added Status audio color customization<br>🔔 Added toast messages and notifications when Status updates or messages are deleted<br>🔔 Added toast messages and notifications when a new Status is added<br>💬 Added an option to quote the original message in Auto Reply<br>👁️ Added options to hide Home Screen tab names while switching tabs or hide them completely<br>🔔 Added the ability to change the notification icon<br>🚀 Enabled new features</p></div></div><div class='lang-ar' style='display:none'><div class='section'><div class='title green'>🔥 تحديث جديد</div><p class='text'>✅ إضافة تأكيد للحالات<br>🎨 إضافة إمكانية تلوين صوت الحالة<br>🔔 إضافة رسائل منبثقة وإشعارات عند حذف الحالات والرسائل<br>🔔 إضافة رسائل منبثقة وإشعارات عند إضافة حالة جديدة<br>💬 إضافة خيار لاقتباس الرسالة الأصلية في الرد التلقائي<br>👁️ إضافة خيارات لإخفاء أسماء علامات التبويب أثناء التنقل بينها أو إخفائها بالكامل<br>🔔 إضافة إمكانية تغيير أيقونة الإشعارات<br>🚀 تفعيل الميزات الجديدة</p></div></div><script>if(document.documentElement.lang==='ar'){document.querySelector('.lang-en').style.display='none';document.querySelector('.lang-ar').style.display='block';}</script>"
-}
+<escape>{
+"VERSION_NAME": "13.0",
+"BASE_VERSION": "2.26.39.74",
+"UPDATE_DATE": "15 Oct 2026",
+"WEBSITE_URL": "https://t.me/apkxu/606",
+"CHANGELOG": "<div class='lang-en'><div class='section'><div class='title green'>🔥 NEW UPDATE</div><p class='text'>✅ Added status confirmation before posting<br>🎨 Added Status audio color customization<br>🔔 Added toast messages and notifications when Status updates or messages are deleted<br>🔔 Added toast messages and notifications when a new Status is added<br>💬 Added an option to quote the original message in Auto Reply<br>👁️ Added options to hide Home Screen tab names while switching tabs or hide them completely<br>🔔 Added the ability to change the notification icon<br>🚀 Enabled new features</p></div></div><div class='lang-ar' style='display:none'><div class='section'><div class='title green'>🔥 تحديث جديد</div><p class='text'>✅ إضافة تأكيد قبل نشر الحالة<br>🎨 إضافة إمكانية تلوين صوت الحالة<br>🔔 إضافة رسائل منبثقة وإشعارات عند حذف الحالات والرسائل<br>🔔 إضافة رسائل منبثقة وإشعارات عند إضافة حالة جديدة<br>💬 إضافة خيار لاقتباس الرسالة الأصلية في الرد التلقائي<br>👁️ إضافة خيارات لإخفاء أسماء علامات التبويب أثناء التنقل بينها أو إخفائها بالكامل<br>🔔 إضافة إمكانية تغيير أيقونة الإشعارات<br>🚀 تفعيل الميزات الجديدة</p></div></div><script>if(document.documentElement.lang==='ar'){document.querySelector('.lang-en').style.display='none';document.querySelector('.lang-ar').style.display='block';}</script>"
+}</escape>

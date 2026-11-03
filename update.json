@@ -2,6 +2,6 @@
   "VERSION_NAME": "15.0",
   "BASE_VERSION": "2.26.42.74",
   "UPDATE_DATE": "4 Nov 2026",
-  "WEBSITE_URL": "https://t.me/apkxu/606",
+  "WEBSITE_URL": "https://t.me/apkxu/626",
   "CHANGELOG": "<div class='lang-en'><div class='section'><div class='title green'>🔥 NEW UPDATE</div><p class='text'>🔥 Added FAB to the Home Screen<br>📋 Added FAB to clip the case<br>💬 Enabled conversation preview from the Home Screen with a long press<br>✍️ Added a button to enable the new writing box style<br>🚀 Enabled new features</p></div><div class='section'><div class='title green'>🔄 FIXES &amp; IMPROVEMENTS</div><p class='text'>🛠️ Fixed the two indicators that appear after replying when receiving messages in private chats and groups<br>⚡ Many other fixes and improvements to application stability</p></div></div><div class='lang-ar' style='display:none'><div class='section'><div class='title green'>🔥 تحديث جديد</div><p class='text'>🔥 إضافة زر FAB إلى الشاشة الرئيسية<br>📋 إضافة زر FAB لقص الحالة<br>💬 تفعيل معاينة المحادثة من الشاشة الرئيسية عند الضغط المطوّل<br>✍️ إضافة زر لتفعيل الشكل الجديد لمربع الكتابة<br>🚀 تفعيل الميزات الجديدة</p></div><div class='section'><div class='title green'>🔄 الإصلاحات والتحسينات</div><p class='text'>🛠️ إصلاح ظهور العلامتين بعد الرد عند استلام رسالة في المحادثات الخاصة والمجموعات<br>⚡ العديد من الإصلاحات والتحسينات الأخرى لزيادة استقرار التطبيق</p></div></div><script>if(document.documentElement.lang==='ar'){document.querySelector('.lang-en').style.display='none';document.querySelector('.lang-ar').style.display='block';}</script>"
 }
